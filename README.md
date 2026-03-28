@@ -49,3 +49,15 @@ elif choice == '4':
 
 else:
     print("Invalid input")
+
+
+
+
+    ## Output
+
+For Example:
+
+Enter first number: 5  
+Enter second number: 3  
+Select operation: 1  
+Result: 8
